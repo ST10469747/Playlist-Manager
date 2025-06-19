@@ -1,1 +1,2 @@
-# Playlist-Manager
+Playlist Manager Summative Project 
+
