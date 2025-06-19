@@ -17,7 +17,9 @@ There is an exit button which helps the user leave the app.
 
 Detailed screen
 
-This page shows the results based on the users information typed in. The code also calculates the average rating based on thye three answers provided
+This page shows the results based on the users information typed in. The code also calculates the average rating based on thye three answers provided.
+The user will enter the information with different artists, songs and rating, when the user has recieved three ratings, the user will be able to calculate the average rating.
+The "Back" button takes the user to the mainActivity where the user can repeat the process again. 
 
 ![image](https://github.com/user-attachments/assets/f38ab23c-da79-4a3d-aa47-0fd97931c8d5)
 ![image](https://github.com/user-attachments/assets/75e2243e-5c58-43a4-bf96-18a0a7da5f8b)
@@ -29,6 +31,8 @@ The app runnuing in the simulater
 second page 
 
 ![image](https://github.com/user-attachments/assets/67c3ab97-f664-408d-9dcb-9576732330a5)
+![image](https://github.com/user-attachments/assets/c2a971e0-49bc-4c77-868a-df8003244f16)
+
 
 
 
